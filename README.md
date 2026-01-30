@@ -1,1 +1,2 @@
 # C-language-Basics
+Hello Everyone! This repository contains my first-semester lab work, marking my very first steps into the world of coding. It covers fundamental C concepts like variables, loops,functions,Arrays ,Pointers ,Built in datatypes (Structures) and file Management. This project serves as the foundation of my journey as a developer, documenting my progress as I learn to build logic and solve problems through code.
